@@ -1,15 +1,41 @@
-<h2 align="left">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h2>
+<div align="center">
+  <h1><strong>Hi there</strong>  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+</div>  
 
+<div align="center">
 My name is Çağrı. I live in Izmir, Turkey. I started learning JavaScript 6 months ago. I am also learning Python. I will learn Swift soon then i hope i will make ios apps.
-
+</div>
+<br>
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=p0we&color=blueviolet"/>
-
-## My Personal Accounts 📱
-<a href="https://discord.com/users/775016476389408780" target="_blank">![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</a>
-<a href="https://instagram.com/p0wew" target="_blank">![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-<a href="https://open.spotify.com/user/31eepdmjragxb3tm6gumvk7aecwe?si=JkrtPbEzQNW4vHaqU-KcFg" target="_blank">![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)</a>
-<a href="https://youtube.com/channel/UCP9pa84RYEjuCwo0yjV10Y" target="_blank">![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
-
-## Technologies I Use ✨
-
-![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+</div>
+<br>
+<div align="center">
+<h2>My Personal Accounts 📱</h2>
+<a href="https://discord.com/users/775016476389408780" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://instagram.com/p0wew" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://open.spotify.com/user/31eepdmjragxb3tm6gumvk7aecwe?si=JkrtPbEzQNW4vHaqU-KcFg" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://youtube.com/channel/UCP9pa84RYEjuCwo0yjV10Y" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</div>
+<br>
+<div align="center">
+<h2>Tools & Languanges ✨</h2>
+<p style="float:right">
+   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+   <code><img height="20" src="https://cdn.freebiesupply.com/logos/thum2x/webstorm-icon-logo.png"></code>
+   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+   <code><img height="20" src="https://camo.githubusercontent.com/c10bbec541caa795eee7a0ada0415e2fe7c04b4f89aaa8ebc76e1d1ac2ede1d6/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f6d6f6e676f64622e706e67"></code>
+</p>
+</div>
+<br>
+<h2 align="center">GitHub Stats ⚡</h2>
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p0we&theme=dark&count_private=true&show_icons=false&hide_border=true" />
+  <br>
+   <img src="https://github-readme-stats.vercel.app/api?username=p0we&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" 
+/>
+</p>
