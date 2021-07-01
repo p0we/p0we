@@ -3,7 +3,7 @@
 </div>  
 
 <div align="center">
-My name is Çağrı. I am from Turkey. I started learning JavaScript 6 months ago. I am also learning Python. I will learn Swift soon then i hope i will make ios apps.
+13 years old developer from Turkey who know JavaScript and Python
  <br>
   <br>
 <a href="https://discord.com/users/775016476389408780" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/775016476389408780"></a>
