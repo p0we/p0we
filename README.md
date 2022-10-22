@@ -3,7 +3,7 @@
 </div>  
 
 <div align="center">
-13 years old developer from Turkey who know JavaScript and Python
+15 years old developer from Turkey who know JavaScript and Python
  <br>
   <br>
 <a href="https://discord.com/users/775016476389408780" target="_blank"><img src="https://lanyard-profile-readme.vercel.app/api/775016476389408780"></a>
